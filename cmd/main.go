@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"shittt/internal"
+	"dummy_backend/internal"
 )
 
 func main() {
